@@ -2,6 +2,8 @@
 
 
 ![pcb](/images/pcb.png)
+![top](/images/top.png)
+![bottom](/images/bottom.png)
 
 ## ライセンス
 MIDライセンスにてPCBデータプレートデータを公開します。<br>
