@@ -4,7 +4,7 @@
 
 | 名前 | 詳細 | 個数 |
 | --- | --- | --- |
-| ESP32開発ボード | <a href="https://akizukidenshi.com/catalog/g/gM-15673/" target="_blank">秋月電子リンク</a> | 48 |
+| ESP32開発ボード | <a href="https://akizukidenshi.com/catalog/g/gM-15673/" target="_blank">秋月電子リンク</a> | 1 |
 | TRRSジャック | PJ320A（無くても良い） | 3 |
 | ダイオード | SDM、DIP両方対応しています | 48 |
 | Choc スイッチソケット | 　 | 48 |
